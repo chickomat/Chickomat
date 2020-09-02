@@ -3,7 +3,7 @@
 The main Repository of the Jugend Forscht project "Chickomat" from 2016
 
 ## Authors:
-- [Jonathan Treffler](https://github.com/TessyPowder)
+- [Jonathan Treffler](https://github.com/JonathanTreffler)
 - Janik Atzenbeck
 - Christoph Greger
 
